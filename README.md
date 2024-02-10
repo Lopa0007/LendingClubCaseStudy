@@ -16,7 +16,7 @@ This project aims to identify the attributes that will indicate risky loan appli
 
 
 ## Conclusions
-- Multiple factors such as loan terns, amount funded, interests, applicant's public profile, annual income etc are identified which are behind loan default. 
+- Multiple factors such as loan terms, amount funded, interests, applicant's public profile, annual income etc are identified which are behind loan default. 
 - More recent data can be analyzed to get recent trend of default, Also, it has been seen that the California has largest share of loan application, which is very intuitive as it has a strong reputation for innovative businesses and is also the most populous state in the US. However, Nebraska is showing highest rate of defaults, which needs further investigation.
 
 
